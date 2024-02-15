@@ -1,0 +1,8 @@
+C:\Users\tyson\repos\C# and DotNET\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.AssemblyReference.cache
+C:\Users\tyson\repos\C# and DotNET\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyson\repos\C# and DotNET\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\tyson\repos\C# and DotNET\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\tyson\repos\C# and DotNET\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\tyson\repos\C# and DotNET\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\tyson\repos\C# and DotNET\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\tyson\repos\C# and DotNET\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
